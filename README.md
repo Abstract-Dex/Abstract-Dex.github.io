@@ -1,3 +1,5 @@
+---
+
 ## About Me
 I am an aspiring data scientist with a keen interest in uncovering insights from data and leveraging cutting-edge tools to solve complex challenges. Eager to contribute to a team environment and apply data science skills, including Deep Learning, NLP, and Generative AI techniques, to real-world projects that drive meaningful insights and impactful results.
 
