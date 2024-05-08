@@ -22,9 +22,9 @@ I am an aspiring data scientist with a keen interest in uncovering insights from
   - Investigating multimodal generative models, particularly integrating vision transformers with large language models (LLMs) to generate accurate image captions.
 
 ## Projects
-- **Multimodal Generative Model** | March 2024 - Present 
+- **Multimodal Generative Model** | March 2024 - Present
   - Building a model from scratch using PyTorch to generate captions from images.
-- **Document Chatbot** | February 2024 | | [Link to Repo](https://github.com/Abstract-Dex/Document-Chatbot)
+- **Document Chatbot** | February 2024 | [Link to Repo](https://github.com/Abstract-Dex/Document-Chatbot)
   - Built a chatbot using the LlamaIndex and Llama2 for querying Wikipedia documents.
 - **Emotion Detector** | March 2024 | [Link to Repo](https://github.com/Abstract-Dex/Document-Chatbot)
   - Developed an emotion detector using DistilBERT to identify emotions expressed in text.
