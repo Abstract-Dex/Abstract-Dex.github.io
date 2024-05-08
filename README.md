@@ -1,4 +1,4 @@
-# ** Rajdeep Basu**
+# **Rajdeep Basu**
 
 # Data Scientist
 
